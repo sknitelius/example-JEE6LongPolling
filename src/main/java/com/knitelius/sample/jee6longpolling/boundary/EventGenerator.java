@@ -22,6 +22,7 @@ import javax.enterprise.event.Event;
 import javax.inject.Inject;
 
 /**
+ * Dummy event generator.
  *
  * @author Stephan Knitelius <stephan@knitelius.com>
  */
