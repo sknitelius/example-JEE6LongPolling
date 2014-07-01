@@ -1,4 +1,5 @@
 example-JEE6LongPolling
 =======================
 
-Example JEE6 Long Polling 
+Push notifications with JEE 6
+http://www.knitelius.com/2014/07/01/push-notifications-with-jee-6/
